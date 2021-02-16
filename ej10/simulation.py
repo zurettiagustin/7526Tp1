@@ -24,7 +24,7 @@ class Simulation:
         'immobile': math.inf
     }
 
-    _FRAMES = 1000
+    _FRAMES = 5000
 
     def __init__(self):
         self._config = Config()
